@@ -30,6 +30,9 @@
         <br />
         <asp:Label ID="Label4" runat="server" Text="Estatus:"></asp:Label>
 &nbsp;<asp:TextBox ID="txtesta" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        <asp:Label ID="Label5" runat="server" Text="Estatus:"></asp:Label>
     </form>
 </body>
 </html>
